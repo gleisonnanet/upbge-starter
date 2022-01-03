@@ -14,7 +14,7 @@
 item                               | detalhes                                           | documentação
 -----------------------------------| ---------------------------------------------------|------------------------------------------------
 Material                           | Materiais e texturas                               |[visualizar detalhes ](./doc/INPUT/keyboard.md)  
-Assets                             | Galeria de objetos e animações 3d                  |[visualizar detalhes ](./doc/INPUT/Mouse.md)  
+Assets                             | Galeria de objetos e animações 3d                  |<https://github.com/gleisonnanet/asset-upbge>  
 scripts                            | Scripts python                                     |[visualizar detalhes ](./doc/INPUT/Joystick.md)  
 sistema Climático                  | Sistema de dia e noite chuva e sol                 |[visualizar detalhes ](./doc/INPUT/Joystick.md)  
 Oceano, rios, lava, vulcânica etc  | Facilitador para criação de oceano e rios          |[visualizar detalhes ](./doc/INPUT/Joystick.md)  
