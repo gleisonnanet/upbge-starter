@@ -60,8 +60,9 @@ API       | [visualizar detalhes ](./doc/STORAGE/api.md)
     Galeria de assets separado por estilo de jogo 
 
 Template de jogo | Link detalhes |
------          |---------------|
------          |---------------|
+-----            |---------------|
+Objetos 3d       |<https://github.com/gleisonnanet/asset-upbge>|
+Animações        |-|
 
 
 
