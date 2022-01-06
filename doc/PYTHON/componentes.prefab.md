@@ -9,6 +9,7 @@ Os modelos de componente Python estão incluídos na opção de modelo no editor
 ## Modelos de controlador de personagem
 
 [Componente de controle de caracteres  "Character Controller"](./caracteres.md)  
-[Componente de câmera de primeira pessoa "First Person Camera"](./doc/PYTHON/componentes.prefab.md)  
-[Componente de câmera de terceira pessoa "Third Person Camera"](./doc/PYTHON/componentes.prefab.md)  
-[Componente de animação simples "Simple Animator"](./doc/PYTHON/componentes.prefab.md)  
+[Componente de câmera de primeira pessoa "First Person Camera"](./fpscam.md)  
+[Componente de câmera de terceira pessoa "Third Person Camera"](./tpscam.md)  
+[Componente de animação simples "Simple Animator"](./simpleanimator.md)  
+[Top Down Templates](./topdown.md)  
