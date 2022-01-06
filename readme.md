@@ -84,11 +84,15 @@ Template de jogo | Link detalhes |
 ## Scripts Python
     Documentação do script
 
-nome do script|nome e class para registro | Link detalhes | Estilo de jogo |
------         | --------------------------|---------------| --|
------         | --------------------------|---------------| --|
+Titulo                     |  Link   
+--                         |--
+Introdução                 |  [visualizar detalhes ](./doc/PYTHON/introducao.md)   
+Componentes prefabricados  |  [visualizar detalhes ](./doc/PYTHON/componentes.prefab.md)   
+ 
 
+ ----
 
+ 
 
 ## ADDONS
     Lista de addons que podem fazer parte dos games
