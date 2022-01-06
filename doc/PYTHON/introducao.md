@@ -145,7 +145,11 @@ Dentro do UPBGE existem vários modelos de componentes Python que podem nos ajud
 
 ## Criação de componente Python
 
+<<<<<<< HEAD
     O painel do componente Python, ou também chamado de painel do componente do jogo,
+=======
+    O painel do componente Python, ou também chamado de painel do componente do jogo, 
+>>>>>>> 3396b1f7e47e722ca8bc5a36fb4e91bac5d9b43f
     é colocado no editor de propriedades na guia Propriedades do objeto do jogo.
 
 ![Painel de componentes do jogo](./image/introducao/Fig-02.png)
